@@ -51,7 +51,7 @@
 **Power Supply/Battery**
 
 **LCD Display (if connected and used in the project)**  
-[image1][]<img width="1280" height="720" alt="ultra" src="https://github.com/user-attachments/assets/69159494-fabf-434c-9485-4ebd6bc1972e" />
+[]<img width="1280" height="720" alt="ultra" src="https://github.com/user-attachments/assets/69159494-fabf-434c-9485-4ebd6bc1972e" />
 
 
 
