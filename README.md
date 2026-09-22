@@ -51,6 +51,6 @@
 **Power Supply/Battery**
 
 **LCD Display (if connected and used in the project)**  
-**![][image1]**![ ultra.jpeg]()
+[image1][ ultra.jpeg]
 
 
